@@ -1,3 +1,5 @@
+package atlacademy.bootcamp.ejercicios.ejercicios_clase_5_6_7_8;
+
 public class GeneradorContraseñasFunciones_Clase_8 {
     //Generar contraseñas
     public static void main(String[]args){

@@ -1,3 +1,5 @@
+package atlacademy.bootcamp.ejercicios.ejercicios_clase_5_6_7_8;
+
 public class PantalonCamisaFunciones_Clase_8 {
 
     public static void main (String[]args){

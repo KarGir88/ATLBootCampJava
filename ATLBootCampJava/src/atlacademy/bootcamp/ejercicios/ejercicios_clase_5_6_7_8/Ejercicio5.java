@@ -1,3 +1,5 @@
+package atlacademy.bootcamp.ejercicios.ejercicios_clase_5_6_7_8;
+
 import java.util.Scanner;
 
 public class Ejercicio5 {
